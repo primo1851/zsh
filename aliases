@@ -1,0 +1,5 @@
+ alias zshconfig="nano ~/.zshrc"
+ alias ohmyzsh="nano ~/.oh-my-zsh"
+ alias reloadZsh="source ~/.zshrc && clear"
+ alias storm="/mnt/c/Program\ Files/JetBrains/WebStorm\ 2024.3/bin/webstorm64.exe $1"
+ alias charm="/mnt/c/Program\ Files/JetBrains/PyCharm\ 2024.3/bin/pycharm64.exe $1"
